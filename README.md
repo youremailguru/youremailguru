@@ -5,7 +5,7 @@ I build behavior-driven email systems that drive activation, retention and reven
 
 Based in Lagos, Nigeria (WAT, UTC+1), with working hours that overlap US and European business days. Available immediately for remote roles.
 
-[Portfolio](https://samuelajayioluwakayode.netlify.app) | [LinkedIn](https://linkedin.com/in/samuel-ajayi-416790359) | [Book a 30-minute call](https://calendly.com/ajayi-samueloluwakayode/30min) | ajayi.samueloluwakayode@gmail.com
+[Portfolio](https://samuelajayi.lovable.app/) | [LinkedIn](https://linkedin.com/in/samuel-ajayi-416790359) | [Book a 30-minute call](https://calendly.com/ajayi-samueloluwakayode/30min) | ajayi.samueloluwakayode@gmail.com
 
 ---
 
@@ -77,7 +77,7 @@ These are spec projects for fictional brands. Metrics in them are designed bench
 
 **Loom onboarding teardown.** An analysis of Loom's publicly documented onboarding sequence using a three-signal model (Completion, Stall, Silence). The finding: Loom handles Completion well and leaves gaps in Stall and Silence. Built from public documentation, not a personal signup.
 
-Full case studies are on the [portfolio site](https://samuelajayioluwakayode.netlify.app).
+Full case studies are on the [portfolio site](https://samuelajayi.lovable.app/).
 
 ## Experience
 
