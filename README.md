@@ -1,6 +1,6 @@
 # Samuel Ajayi
 
-**CRM & Lifecycle Marketing Specialist**
+**CRM & Lifecycle Marketing Specialist | Virtual & Executive Assistant | Product Designer**
 I build behavior-driven email systems that drive activation, retention and revenue.
 
 Based in Lagos, Nigeria (WAT, UTC+1). Working hours overlap with US and European business days.
@@ -11,13 +11,16 @@ Based in Lagos, Nigeria (WAT, UTC+1). Working hours overlap with US and European
 
 ## What I do
 
-Most lifecycle programs send on a calendar. Mine send on behavior. I design the triggers, segments and copy so each message answers what the person just did, or did not do.
+**CRM and lifecycle marketing.** Most lifecycle programs send on a calendar. Mine send on behavior. I design the triggers, segments and copy so each message answers what the person just did, or did not do.
 
 - Lifecycle and CRM strategy: onboarding, activation, retention, win-back, renewal
 - Behavior-triggered flows across email and SMS
 - Segmentation, list hygiene and deliverability
 - Automation builds and handoffs between tools
-- Email design, with a UI/UX background behind the layouts
+
+**Virtual and executive assistance.** Inbox, calendar, correspondence, reporting, proposals, campaign operations and event logistics, handled end to end.
+
+**Product design.** Figma-based UI/UX and design systems, which is why my emails are laid out like product screens.
 
 I work across SaaS, fintech, ecommerce and service businesses. No single vertical.
 
@@ -62,12 +65,36 @@ These are spec projects for fictional brands. Metrics in them are designed bench
 
 Full case studies are on the [portfolio site](https://samuelajayioluwakayode.netlify.app).
 
-## Background
+## Experience
 
-- Co-founder and CMO, Olexa Technology (early-stage Nigerian campus marketplace)
-- Virtual and Executive Assistant, Morenikeji Foundation (2024 to 2025)
-- 3+ years in product design (UI/UX and design systems)
-- B.A. Sociology and Anthropology, Obafemi Awolowo University (Second Class Upper)
+### Virtual and executive assistance
+
+**Virtual Administration Assistant, Pollard Learning** (Ontario, Canada, remote)
+Ran email campaigns and CRM operations in GoHighLevel for an education business. Results are listed above. Role ended on schedule in May 2026.
+
+**Virtual & Executive Assistant, Morenikeji Foundation** (Lagos, Nigeria, Aug 2024 to Apr 2025)
+Wrote funding proposals and donor impact reports independently. Managed donor correspondence.
+
+**Virtual & Personal Assistant (Clerk), GISU, Obafemi Awolowo University** (Sep 2021 to Dec 2023)
+Coordinated logistics for governance events with 500+ student attendance. Also served as Deputy Speaker of the union.
+
+### Product design
+
+**Lead Product Designer, Vynex** (Lagos, remote, Jun 2024 to Nov 2025)
+Designed the dashboards and design system for a freelancing platform.
+
+**Lead Product Designer, Nova Tokens** (freelance, Jun 2024 to Nov 2025)
+Designed the UX for a blockchain payments product and its integration with the Allnova platform.
+
+**Junior Product Designer, Tosspaper** (Ontario, Canada, remote, Dec 2023 to Apr 2024)
+Worked on an AI and blockchain construction platform, including the invoice review UI.
+
+**Product Design Intern, MOUNA MO Constructions** (Abuja, remote, Mar 2022 to May 2023)
+Designed interfaces for an internal ERP system.
+
+## Education
+
+B.A. Sociology and Anthropology, Obafemi Awolowo University (Second Class Upper, GPA 3.85)
 
 ## Work with me
 
