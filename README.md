@@ -1,6 +1,6 @@
 # Samuel Ajayi
 
-**CRM & Lifecycle Marketing Specialist | Virtual & Executive Assistant | Product Designer**
+**CRM & Lifecycle Marketing Specialist | Product Designer | Virtual & Executive Assistant**
 I build behavior-driven email systems that drive activation, retention and revenue.
 
 Based in Lagos, Nigeria (WAT, UTC+1), with working hours that overlap US and European business days. Available immediately for remote roles.
@@ -19,9 +19,9 @@ Based in Lagos, Nigeria (WAT, UTC+1), with working hours that overlap US and Eur
 - Cold outreach systems: domain setup, warm-up, lead sourcing and verification
 - Automation builds and handoffs between tools
 
-**Virtual and executive assistance.** Executive scheduling, inbox and correspondence, documentation systems, reporting, proposals, social media scheduling, and event logistics, handled end to end for remote teams.
-
 **Product design.** Figma-based UI/UX and design systems across finance, blockchain payments, construction tech and freelancing platforms. It is why my emails are laid out like product screens.
+
+**Virtual and executive assistance.** Executive scheduling, inbox and correspondence, documentation systems, reporting, proposals, social media scheduling, and event logistics, handled end to end for remote teams.
 
 I work across SaaS, fintech, ecommerce and service businesses. No single vertical.
 
@@ -87,23 +87,10 @@ Full case studies are on the [portfolio site](https://samuelajayioluwakayode.net
 Built and run the cold outreach system for a job fair. Results are listed above.
 
 **Virtual/Executive Assistant, Pollard Learning** (Ontario, Canada, remote, Jun 2025 to May 2026)
-- Gave direct administrative support to the Head of Business Analysis: scheduling, communications, documentation and workflow coordination for a fully distributed team
 - Owned the email and CRM program in GoHighLevel: segments, timing logic and campaign workflows
+- Gave direct administrative support to the Head of Business Analysis: scheduling, communications, documentation and workflow coordination for a fully distributed team
 - Scheduled and published 8+ social media posts per week
 - Kept organized workspaces and documentation systems, and wrote meeting notes, progress reports and stakeholder documents
-
-### Executive and virtual assistance
-
-**Virtual & Executive Assistant, Morenikeji Foundation** (Lagos, Nigeria, Aug 2024 to Apr 2025)
-- Wrote 2 funding proposals and donor impact reports independently
-- Managed all correspondence with an external donor organization
-- Ran research and data gathering for a team of 4 staff serving 40+ program beneficiaries
-- Kept records and filing systems audit-ready for organizational and donor reporting
-
-**Virtual & Personal Assistant (Clerk), GISU, Obafemi Awolowo University** (Sep 2021 to Dec 2023)
-- Managed sensitive institutional documentation and policy records for a student legislative unit
-- Coordinated logistics for 2 governance and advocacy events with 500+ student attendance
-- Compiled 2 institutional review reports on student policies for leadership
 
 ### Product design
 
@@ -131,9 +118,23 @@ Built and run the cold outreach system for a job fair. Results are listed above.
 - Ran user research, prototyping and user testing
 - Streamlined dashboards and reporting tools
 
-### Mentorship and leadership
+**Design mentor, Allnova.** Mentored 4 designers in Nigeria on design systems, career development and portfolio reviews.
 
-- **Design mentor, Allnova.** Mentored 4 designers in Nigeria on design systems, career development and portfolio reviews.
+### Executive and virtual assistance
+
+**Virtual & Executive Assistant, Morenikeji Foundation** (Lagos, Nigeria, Aug 2024 to Apr 2025)
+- Wrote 2 funding proposals and donor impact reports independently
+- Managed all correspondence with an external donor organization
+- Ran research and data gathering for a team of 4 staff serving 40+ program beneficiaries
+- Kept records and filing systems audit-ready for organizational and donor reporting
+
+**Virtual & Personal Assistant (Clerk), GISU, Obafemi Awolowo University** (Sep 2021 to Dec 2023)
+- Managed sensitive institutional documentation and policy records for a student legislative unit
+- Coordinated logistics for 2 governance and advocacy events with 500+ student attendance
+- Compiled 2 institutional review reports on student policies for leadership
+
+### Leadership
+
 - **Deputy Speaker, Faculty of Social Sciences Students' Association, OAU** (2023 to 2024). Coordinated legislative sessions and faculty-wide communications.
 - **Secretary, Electoral Council, Nigerian Sociology & Anthropology Students' Association** (2022 to 2023). Kept election records and coordinated candidate onboarding.
 - **Campus Research Activator, Konnect Nigeria** (2021 to 2022). Led student outreach and data collection across campus.
