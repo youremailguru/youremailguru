@@ -1,4 +1,4 @@
-# Samuel Ajayi
+# I'm Samuel
 
 **CRM & Lifecycle Marketing Specialist | Product Designer | Virtual & Executive Assistant**
 I build behavior-driven email systems that drive activation, retention and revenue.
